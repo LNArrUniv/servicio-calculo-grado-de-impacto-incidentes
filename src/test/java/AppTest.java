@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 public class AppTest {
 
   @Test
-  public void testAlgoQueDeberiaEstarBien() {
+  public void testCalculoDeEjemplo() {
     /*
     Calculo de ejemplo:
 
