@@ -2,6 +2,8 @@
 
 API desarrollada para el Trabajo Práctico Anual del 2023 de la materia Diseño de Sistemas de la UTN - FRBA.
 
+Desarrollada con [Javalin](https://javalin.io/)
+
 #### A partir de los siguientes datos:
 
 - Sumatoria del tiempo de resolución de todos los incidentes.
@@ -12,3 +14,4 @@ API desarrollada para el Trabajo Práctico Anual del 2023 de la materia Diseño 
 Se calcula y se retorna el Grado de Impacto de cada Entidad.
 
 Para ver la documentación: `/api/swagger`
+
